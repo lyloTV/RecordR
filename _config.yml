@@ -8,7 +8,7 @@ title: 'RecordR'
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 path:
 url:  'https://www.recordr.download'
-download_url: "https://github.com/JokerSync/Joker/releases/download/v1.1.5/Joker_1.1.5_macos.dmg"
+download_url: "https://dl.dropboxusercontent.com/s/6dqggyfbede5dnk/RecordR_v20.2-74-g34a2280d.dmg?dl=0"
 
 ########
 # more settings
