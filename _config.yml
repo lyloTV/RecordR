@@ -6,7 +6,7 @@ title: 'RecordR'
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path:
+path: /
 url:  'https://www.recordr.download'
 download_url: "https://github.com/JokerSync/Joker/releases/download/v1.1.5/Joker_1.1.5_macos.dmg"
 
