@@ -2,11 +2,19 @@
 layout: home
 title: RecordR
 ref: index
-lang: en
+lang: fr
 ---
 
-You can download the latest version here:
+Vous pouvez télécharger la dernière version ici:
 
 {% include download.html %}
 
-If you need assistance, you can click on this link in order to allow our support to intervene: <https://get.teamviewer.com/cbphcze>
+Pour vous aider à l’utiliser, n’hésitez pas à consulter documentation en suivant ces liens:
+
+- [Tutoriel vidéo](https://lylo.screenlight.tv/shares/FQfSGi8AmsviUlTLiQExSPUNzEGNJJiY)
+- [Se connecter à RecordR](https://lylo.freshdesk.com/a/solutions/articles/43000568154)
+- [Comment utiliser RecordR](https://lylo.freshdesk.com/a/solutions/articles/43000568183)
+
+Un problème technique, contactez notre support par mail à <support@lylo.tv>, en indiquant dans l’objet du mail REMOTE, et en indiquant votre blocage dans l’utilisation. Nous reviendrons vers vous le plus rapidement possible.
+
+Si vous avez besoin d'assistance, merci de cliquer sur ce lien pour permettre à notre support d'intervenir: <https://get.teamviewer.com/cbphcze>
