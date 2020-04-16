@@ -5,7 +5,7 @@ ref: index
 lang: fr
 ---
 
-Vous pouvez télécharger la dernière version ici:
+Vous pouvez télécharger la dernière version pour *MacOS 10.12+* ici:
 
 {% include download.html %}
 
