@@ -7,7 +7,17 @@ lang: fr
 
 Vous pouvez télécharger la dernière version pour *MacOS 10.12+* ici:
 
-{% include download.html %}
+{% include download.html
+    icon="fa-apple"
+    os="macos"
+%}
+
+Une version *Windows* en cours de test est également disponible ici:
+
+{% include download.html
+    icon="fa-windows"
+    os="macos"
+%}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter documentation en suivant ces liens:
 
