@@ -16,7 +16,7 @@ Une version *Windows* en cours de test est également disponible ici:
 
 {% include download.html
     icon="fa-windows"
-    os="macos"
+    os="windows"
 %}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter documentation en suivant ces liens:
