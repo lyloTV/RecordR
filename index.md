@@ -5,11 +5,18 @@ ref: index
 lang: fr
 ---
 
-Vous pouvez télécharger la dernière version pour *MacOS 10.12+* ici:
+Vous pouvez télécharger la dernière version pour *MacOS 10.13+* ici:
 
 {% include download.html
     icon="fa-apple"
-    os="macos"
+    os="macos1013"
+%}
+
+Vous pouvez télécharger la dernière version pour *MacOS 10.10+* ici:
+
+{% include download.html
+    icon="fa-apple"
+    os="macos1010"
 %}
 
 Une version *Windows* en cours de test est également disponible ici:

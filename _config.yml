@@ -31,10 +31,12 @@ lsi: false
 # Download
 
 os:
-  macos:
-    url: "https://dl.dropboxusercontent.com/s/kqmf7ifg5v0sz9i/RecordR_v20.5-5-g9ace0412_601-fix-ci-for-windows.dmg?dl=0"
+  macos1010:
+    url: "https://dl.dropboxusercontent.com/s/bea2tf6st3sijuj/RecordR_v20.5-11-ga23f36bc_MacOS10.10%2B.dmg?dl=0"
+  macos1013:
+    url: "https://dl.dropboxusercontent.com/s/y9xojx8p7hiihx7/RecordR_v20.5-11-ga23f36bc_MacOS10.13%2B.dmg?dl=0"
   windows:
-    url: "https://dl.dropboxusercontent.com/s/cfcjck02kok08qf/RecordR_v20.5-5-g9ace0412_601-fix-ci-for-windows.exe?dl=0"
+    url: "https://dl.dropboxusercontent.com/s/uakdaow69ydvf4j/RecordR_v20.5-11-ga23f36bc.exe?dl=0"
 
 #######
 # translation
