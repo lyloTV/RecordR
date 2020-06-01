@@ -32,9 +32,9 @@ lsi: false
 
 os:
   macos:
-    url: "https://www.dropbox.com/s/kqmf7ifg5v0sz9i/RecordR_v20.5-5-g9ace0412_601-fix-ci-for-windows.dmg?dl=0"
+    url: "https://dl.dropboxusercontent.com/s/kqmf7ifg5v0sz9i/RecordR_v20.5-5-g9ace0412_601-fix-ci-for-windows.dmg?dl=0"
   windows:
-    url: "https://www.dropbox.com/s/cfcjck02kok08qf/RecordR_v20.5-5-g9ace0412_601-fix-ci-for-windows.exe?dl=0"
+    url: "https://dl.dropboxusercontent.com/s/cfcjck02kok08qf/RecordR_v20.5-5-g9ace0412_601-fix-ci-for-windows.exe?dl=0"
 
 #######
 # translation
