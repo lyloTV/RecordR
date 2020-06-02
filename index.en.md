@@ -6,9 +6,26 @@ lang: en
 permalink: en
 ---
 
-You can download the latest version for *MacOS 10.12+* here:
+You can download the latest version for *MacOS 10.13+* here:
 
-{% include download.html %}
+{% include download.html
+    icon="fa-apple"
+    os="macos1013"
+%}
+
+For older *MacOS* version (10.10+), please use this download button:
+
+{% include download.html
+    icon="fa-apple"
+    os="macos1010"
+%}
+
+For *Windows* users it's this way:
+
+{% include download.html
+    icon="fa-windows"
+    os="windows"
+%}
 
 ## RecordR 20.5 change log
 
