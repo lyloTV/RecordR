@@ -32,11 +32,11 @@ lsi: false
 
 os:
   macos1010:
-    url: "https://dl.dropboxusercontent.com/s/bea2tf6st3sijuj/RecordR_v20.5-11-ga23f36bc_MacOS10.10%2B.dmg?dl=0"
+    url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6_MacOS10.10+.dmg"
   macos1013:
-    url: "https://dl.dropboxusercontent.com/s/y9xojx8p7hiihx7/RecordR_v20.5-11-ga23f36bc_MacOS10.13%2B.dmg?dl=0"
+    url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6_MacOS10.13+.dmg"
   windows:
-    url: "https://dl.dropboxusercontent.com/s/uakdaow69ydvf4j/RecordR_v20.5-11-ga23f36bc.exe?dl=0"
+    url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6.exe"
 
 #######
 # translation

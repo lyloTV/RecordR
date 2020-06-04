@@ -27,7 +27,14 @@ For *Windows* users it's this way:
     os="windows"
 %}
 
-## RecordR 20.5 change log
+## Change log
+
+### RecordR 20.6
+
+- Better audio file naming
+- Restore zoom in/out with key *I* and *O*
+
+### RecordR 20.5
 
 - Option to listen the original version during recording
 - New *Talk* button to talk to the artistic director if one is affected to the recording task

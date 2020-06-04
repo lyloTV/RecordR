@@ -37,7 +37,14 @@ Pour vous aider à l’utiliser, n’hésitez pas à consulter documentation en 
 
 Un problème technique, contactez notre support par mail à <support@lylo.tv>, en indiquant dans l’objet du mail REMOTE, et en indiquant votre blocage dans l’utilisation. Nous reviendrons vers vous le plus rapidement possible.
 
-## RecordR 20.5: note de version
+## Note de version
+
+### RecordR 20.6
+
+- Amélioration de la nomenclature des fichiers audio
+- Zoom in/out dans la rythmo avec les touches *I* and *O*
+
+### RecordR 20.5
 
 - Possibilité d'écouter la version originale pendant l'enregistrement
 - Nouvelle vue script avec les phrases du personnage en cours surlignée en:
