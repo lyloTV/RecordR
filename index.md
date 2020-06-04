@@ -37,7 +37,7 @@ Pour vous aider à l’utiliser, n’hésitez pas à consulter documentation en 
 
 Un problème technique, contactez notre support par mail à <support@lylo.tv>, en indiquant dans l’objet du mail REMOTE, et en indiquant votre blocage dans l’utilisation. Nous reviendrons vers vous le plus rapidement possible.
 
-## Note de version
+## Note de version:
 
 ### RecordR 20.6
 

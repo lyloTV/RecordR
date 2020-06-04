@@ -27,7 +27,7 @@ For *Windows* users it's this way:
     os="windows"
 %}
 
-## Change log
+## Change log:
 
 ### RecordR 20.6
 
