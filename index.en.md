@@ -6,6 +6,14 @@ lang: en
 permalink: en
 ---
 
+You can download the latest version for *MacOS 10.12+* here:
+
+{% include download.html
+    icon="fa-apple"
+    os="macos"
+%}
+
+<!--
 You can download the latest version for *MacOS 10.13+* here:
 
 {% include download.html
@@ -19,6 +27,7 @@ For older *MacOS* version (10.10+), please use this download button:
     icon="fa-apple"
     os="macos1010"
 %}
+-->
 
 For *Windows* users it's this way:
 
@@ -27,6 +36,7 @@ For *Windows* users it's this way:
     os="windows"
 %}
 
+<!--
 ## Change log:
 
 ### RecordR 20.6
@@ -56,3 +66,4 @@ For *Windows* users it's this way:
   - *J* to switch to next take
 - Possibility to change the *RecordR* window size / full screen mode
 - Various minor improvement and bug fix
+-->

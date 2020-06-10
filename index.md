@@ -5,6 +5,14 @@ ref: index
 lang: fr
 ---
 
+Pour *MacOS 10.12 - Sierra*, *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
+
+{% include download.html
+    icon="fa-apple"
+    os="macos"
+%}
+
+<!--
 Pour ceux qui sont en *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
@@ -18,7 +26,7 @@ Pour ceux qui sont en *Mac OS 10.10 - Yosemite*, *Mac OS X 10.11 - El Capitan*, 
     icon="fa-apple"
     os="macos1010"
 %}
-
+-->
 Une version *Windows 10* en cours de test est également disponible ici:
 
 {% include download.html
@@ -37,6 +45,7 @@ Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation 
 
 Un problème technique, contactez notre support par mail à [support@lylo.tv](mailto:support@lylo.tv?subject=REMOTE), en indiquant dans l’objet du mail REMOTE, et en indiquant votre blocage dans l’utilisation. Nous reviendrons vers vous le plus rapidement possible.
 
+<!--
 ## Note de version:
 
 ### RecordR 20.6
@@ -66,4 +75,4 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Nouveau menu *Help > Contact support...* en cas de problème
 - Possibilité de redimmensionner la fenêtre *RecordR* / Mode plein écran
 - Nombreuses améliorations mineures et correction de bugs
-
+-->
