@@ -38,7 +38,7 @@ os:
   macos1013:
     url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6_MacOS10.13+.dmg"
   windows:
-    url: "https://dl.dropboxusercontent.com/s/vrfc12uckm2hi4x/RecordR_v20.2-96-fe1daa55.exe?dl=0"
+    url: "https://dl.dropboxusercontent.com/s/07z27go7726w8wu/recordr_v20.2-105-0a58ef903f.exe?dl=0"
     #url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6.exe"
 
 #######
