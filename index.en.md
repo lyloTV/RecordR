@@ -74,7 +74,7 @@ For *Windows* users it's this way:
 
 ## Joker
 
-You can download the latest version for *MacOS 10.13+* here:
+You can download the latest version for *MacOS 10.10+* here:
 
 {% include download.html
     icon="fa-apple"
