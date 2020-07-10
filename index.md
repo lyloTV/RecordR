@@ -76,3 +76,22 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Possibilité de redimmensionner la fenêtre *RecordR* / Mode plein écran
 - Nombreuses améliorations mineures et correction de bugs
 -->
+
+## Joker
+
+Pour *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
+
+{% include download.html
+    icon="fa-apple"
+    os="macos"
+    tool="joker"
+%}
+
+Pour *Windows*, vous pouvez télécharger la dernière version ici:
+
+{% include download.html
+    icon="fa-windows"
+    os="windows"
+    tool="joker"
+%}
+

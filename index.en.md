@@ -6,11 +6,14 @@ lang: en
 permalink: en
 ---
 
+## RecordR
+
 You can download the latest version for *MacOS 10.12+* here:
 
 {% include download.html
     icon="fa-apple"
     os="macos"
+    tool="recordr"
 %}
 
 <!--
@@ -34,6 +37,7 @@ For *Windows* users it's this way:
 {% include download.html
     icon="fa-windows"
     os="windows"
+    tool="recordr"
 %}
 
 <!--
@@ -67,3 +71,22 @@ For *Windows* users it's this way:
 - Possibility to change the *RecordR* window size / full screen mode
 - Various minor improvement and bug fix
 -->
+
+## Joker
+
+You can download the latest version for *MacOS 10.13+* here:
+
+{% include download.html
+    icon="fa-apple"
+    os="macos"
+    tool="joker"
+%}
+
+For *Windows* users it's this way:
+
+{% include download.html
+    icon="fa-windows"
+    os="windows"
+    tool="joker"
+%}
+

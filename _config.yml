@@ -32,14 +32,20 @@ lsi: false
 
 os:
   macos:
-    url: "https://dl.dropboxusercontent.com/s/6dqggyfbede5dnk/RecordR_v20.2-74-g34a2280d.dmg?dl=0"
+    recordr:
+      url: "https://dl.dropboxusercontent.com/s/6dqggyfbede5dnk/RecordR_v20.2-74-g34a2280d.dmg?dl=0"
+    joker:
+      url: "https://dl.dropboxusercontent.com/s/1j2lsovj8qqxk0v/Joker_v20.7_MacOS10.13%2B.dmg?dl=0"
   macos1010:
     url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6_MacOS10.10+.dmg"
   macos1013:
     url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6_MacOS10.13+.dmg"
   windows:
-    url: "https://dl.dropboxusercontent.com/s/07z27go7726w8wu/recordr_v20.2-105-0a58ef903f.exe?dl=0"
+    recordr:
+      url: "https://dl.dropboxusercontent.com/s/07z27go7726w8wu/recordr_v20.2-105-0a58ef903f.exe?dl=0"
     #url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6.exe"
+    joker:
+      url: "https://dl.dropboxusercontent.com/s/hbcmb88z3bkhq7s/Joker_v20.7.exe?dl=0"
 
 #######
 # translation

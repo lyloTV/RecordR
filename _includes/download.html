@@ -1,7 +1,7 @@
 <form>
     <button
         type="submit"
-        formaction="{{ site.os[include.os].url }}"
+        formaction="{{ site.os[include.os][include.tool].url }}"
         class="btn btn-primary btn-lg">
         <i class="fa {{ include.icon }}"></i>
         {{ site.t[page.lang].download }}
