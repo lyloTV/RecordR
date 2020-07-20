@@ -10,6 +10,7 @@ Pour *MacOS 10.12 - Sierra*, *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*
 {% include download.html
     icon="fa-apple"
     os="macos"
+    tool="recordr"
 %}
 
 <!--
@@ -32,6 +33,7 @@ Une version *Windows 10* en cours de test est également disponible ici:
 {% include download.html
     icon="fa-windows"
     os="windows"
+    tool="recordr"
 %}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation en suivant ces liens:
