@@ -5,7 +5,7 @@ ref: index
 lang: fr
 ---
 
-Pour *MacOS 10.12 - Sierra*, *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
+Pour *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-apple"
