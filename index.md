@@ -39,7 +39,7 @@ Une version *Windows 10* en cours de test est également disponible ici:
 Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation en suivant ces liens:
 
 - Tutoriels vidéo:
-  - [Utilisation du logiciel](https://lylo.screenlight.tv/shares/FQfSGi8AmsviUlTLiQExSPUNzEGNJJiY)
+  - [Utilisation du logiciel](https://lylo.screenlight.tv/shares/13MIQT6bFhUcbMO1u7Cf8K6uYJTTTH5v)
   - [Le réglage du micro](https://lylo.screenlight.tv/shares/mwtvIfdKvDzXSaPpJf0V6XvbSHchR7ul)
 - Documentation:
   - [Se connecter à RecordR](https://lylo.freshdesk.com/a/solutions/articles/43000568154)
