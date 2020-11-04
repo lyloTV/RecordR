@@ -54,7 +54,6 @@ For *Windows* users it's this way:
   - *J* to switch to next take
 - Possibility to change the *RecordR* window size / full screen mode
 - Various minor improvement and bug fix
--->
 
 ## Joker
 
@@ -74,3 +73,4 @@ For *Windows* users it's this way:
     tool="joker"
 %}
 
+-->

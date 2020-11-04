@@ -28,7 +28,7 @@ Pour ceux qui sont en *Mac OS 10.10 - Yosemite*, *Mac OS X 10.11 - El Capitan*, 
     os="macos1010"
 %}
 -->
-Une version *Windows 10* en cours de test est également disponible ici:
+Pour *Windows 7*, *Windows 8*, et *Windows 10*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-windows"
@@ -77,7 +77,6 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Nouveau menu *Help > Contact support...* en cas de problème
 - Possibilité de redimmensionner la fenêtre *RecordR* / Mode plein écran
 - Nombreuses améliorations mineures et correction de bugs
--->
 
 ## Joker
 
@@ -97,3 +96,4 @@ Pour *Windows*, vous pouvez télécharger la dernière version ici:
     tool="joker"
 %}
 
+-->
