@@ -5,6 +5,8 @@ ref: index
 lang: fr
 ---
 
+## RecordR
+
 Pour *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
@@ -77,6 +79,7 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Nouveau menu *Help > Contact support...* en cas de problème
 - Possibilité de redimmensionner la fenêtre *RecordR* / Mode plein écran
 - Nombreuses améliorations mineures et correction de bugs
+-->
 
 ## Joker
 
@@ -95,5 +98,3 @@ Pour *Windows*, vous pouvez télécharger la dernière version ici:
     os="windows"
     tool="joker"
 %}
-
--->
