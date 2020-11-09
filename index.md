@@ -45,7 +45,7 @@ Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation 
   - [Le réglage du micro](https://lylo.screenlight.tv/shares/mwtvIfdKvDzXSaPpJf0V6XvbSHchR7ul)
 - Documentation:
   - [Se connecter à RecordR](https://lylo.freshdesk.com/a/solutions/articles/43000568154)
-  - [Comment utiliser RecordR](https://lylo.freshdesk.com/a/solutions/articles/43000568183)
+  - [Comment utiliser RecordR](https://lylo.freshdesk.com/a/solutions/articles/43000603388)
 
 Un problème technique, contactez notre support par mail à [support@lylo.tv](mailto:support@lylo.tv?subject=REMOTE), en indiquant dans l’objet du mail REMOTE, et en indiquant votre blocage dans l’utilisation. Nous reviendrons vers vous le plus rapidement possible.
 
