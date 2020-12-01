@@ -34,7 +34,7 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 ## Note de version:
 
-### RecordR 20.11
+### RecordR Bray-Dunes 20.11
 
 - Affichage des répliques des autres personnages
 - Avertissement lorsque le micro n'est pas branché
