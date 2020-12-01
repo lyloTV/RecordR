@@ -39,6 +39,7 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Affichage des répliques des autres personnages
 - Avertissement lorsque le micro n'est pas branché
 - Possibilité pour les directeurs artistiques de prévisualiser les enregistrements des comédiens
+- Chaque nouvelle version porte désormais le nom d'une commune du littoral français en commençant par celle la plus haut nord: [Bray-Dunes](https://wikipedia.org/wiki/Bray-Dunes)
 - Optimisation du temps de téléchargement des éléments
 - Signature de l'installeur *Windows*
 - Synchronisation midi via *SessionLink*
