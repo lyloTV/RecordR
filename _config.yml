@@ -36,10 +36,6 @@ os:
       url: "https://dl.dropboxusercontent.com/s/uxtmu7gk6kqr36m/RecordR_v20.10_MacOS10.13%2B.dmg?dl=0"
     joker:
       url: "https://dl.dropboxusercontent.com/s/jqnzj1ggggu167a/Joker_v20.7.4_MacOS10.10%2B.dmg?dl=0"
-  macos1010:
-    url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6_MacOS10.10+.dmg"
-  macos1013:
-    url: "https://github.com/MartinDelille/RecordR/releases/download/20.6/RecordR_v20.6_MacOS10.13+.dmg"
   windows:
     recordr:
       url: "https://dl.dropboxusercontent.com/s/nzxmaekuuhvtouy/RecordR_v20.10.exe?dl=0"

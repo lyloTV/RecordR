@@ -11,31 +11,14 @@ Pour *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Cata
 
 {% include download.html
     icon="fa-apple"
-    os="macos"
-    tool="recordr"
+    url="https://dl.dropboxusercontent.com/s/frytfgg2wrbzltn/RecordR_Bray-Dunes_v20.11_ffa64768_MacOS10.13%2B.dmg?dl=0"
 %}
 
-<!--
-Pour ceux qui sont en *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
-
-{% include download.html
-    icon="fa-apple"
-    os="macos1013"
-%}
-
-Pour ceux qui sont en *Mac OS 10.10 - Yosemite*, *Mac OS X 10.11 - El Capitan*, et *MacOS 10.12 - Sierra*, vous pouvez télécharger la dernière version ici:
-
-{% include download.html
-    icon="fa-apple"
-    os="macos1010"
-%}
--->
 Pour *Windows 7*, *Windows 8*, et *Windows 10*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-windows"
-    os="windows"
-    tool="recordr"
+    url="https://dl.dropboxusercontent.com/s/6bgq4ieh4yd8sdw/RecordR_Bray-Dunes_v20.11_ffa64768.exe?dl=0"
 %}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation en suivant ces liens:
@@ -49,16 +32,20 @@ Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation 
 
 Un problème technique, contactez notre support par mail à [support@lylo.tv](mailto:support@lylo.tv?subject=REMOTE), en indiquant dans l’objet du mail REMOTE, et en indiquant votre blocage dans l’utilisation. Nous reviendrons vers vous le plus rapidement possible.
 
-<!--
 ## Note de version:
 
-### RecordR 20.6
+### RecordR 20.11
 
+- Affichage des répliques des autres personnages
+- Avertissement lorsque le micro n'est pas branché
+- Signature de l'installeur *Windows*
+- Synchronisation midi via *SessionLink*
+
+### RecordR 20.10
+
+- Lecture simultanée des pistes audios de plusieurs personnages
 - Amélioration de la nomenclature des fichiers audio
 - Zoom in/out dans la rythmo avec les touches *I* and *O*
-
-### RecordR 20.5
-
 - Possibilité d'écouter la version originale pendant l'enregistrement
 - Nouvelle vue script avec les phrases du personnage en cours surlignée en:
   - Orange si la phrase n'a pas encore été enregistrée
@@ -79,7 +66,6 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Nouveau menu *Help > Contact support...* en cas de problème
 - Possibilité de redimmensionner la fenêtre *RecordR* / Mode plein écran
 - Nombreuses améliorations mineures et correction de bugs
--->
 
 ## Joker
 
@@ -87,14 +73,12 @@ Pour *MacOS*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-apple"
-    os="macos"
-    tool="joker"
+    url="https://dl.dropboxusercontent.com/s/jqnzj1ggggu167a/Joker_v20.7.4_MacOS10.10%2B.dmg?dl=0"
 %}
 
 Pour *Windows*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-windows"
-    os="windows"
-    tool="joker"
+    url="https://dl.dropboxusercontent.com/s/io6bisucqj97129/Joker_v20.7.4.exe?dl=0"
 %}
