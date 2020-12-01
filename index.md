@@ -11,14 +11,14 @@ Pour *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Cata
 
 {% include download.html
     icon="fa-apple"
-    url="https://dl.dropboxusercontent.com/s/uxtmu7gk6kqr36m/RecordR_v20.10_MacOS10.13%2B.dmg?dl=0"
+    url="https://dl.dropboxusercontent.com/s/d0eq8tgksw3suat/RecordR_Bray-Dunes_v20.11_970ef774_MacOS10.13%2B.dmg?dl=0"
 %}
 
 Pour *Windows 7*, *Windows 8*, et *Windows 10*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-windows"
-    url="https://dl.dropboxusercontent.com/s/nzxmaekuuhvtouy/RecordR_v20.10.exe?dl=0"
+    url="https://dl.dropboxusercontent.com/s/xjbsbgtpbx3ru58/RecordR_Bray-Dunes_v20.11_970ef774.exe?dl=0"
 %}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation en suivant ces liens:
@@ -34,14 +34,12 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 ## Notes de version:
 
-<!--
 ### RecordR Bray-Dunes 20.11
 
 - Affichage des répliques des autres personnages
 - Avertissement lorsque le micro n'est pas branché
 - Signature de l'installeur *Windows*
 - Synchronisation midi via *SessionLink*
--->
 
 ### RecordR 20.10
 
