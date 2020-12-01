@@ -38,8 +38,11 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 - Affichage des répliques des autres personnages
 - Avertissement lorsque le micro n'est pas branché
+- Possibilité pour les directeurs artistiques de prévisualiser les enregistrements des comédiens
+- Optimisation du temps de téléchargement des éléments
 - Signature de l'installeur *Windows*
 - Synchronisation midi via *SessionLink*
+- Diverses améliorations et corrections de bugs
 
 ### RecordR 20.10
 
