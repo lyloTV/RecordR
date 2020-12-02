@@ -7,7 +7,7 @@ lang: fr
 
 ## RecordR
 
-Pour *MacOS 10.13 - High Sierra*, *MacOS 10.14 - Mojave*, et *MacOS 10.15 - Catalina*, vous pouvez télécharger la dernière version ici:
+Pour *MacOS 10.13 - High Sierra*, *10.14 - Mojave*, *10.15 - Catalina* et *11.0 Big Sur*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-apple"
