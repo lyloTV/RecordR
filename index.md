@@ -11,14 +11,14 @@ Pour *MacOS 10.13 - High Sierra*, *10.14 - Mojave*, *10.15 - Catalina* et *11.0 
 
 {% include download.html
     icon="fa-apple"
-    url="https://dl.dropboxusercontent.com/s/d0eq8tgksw3suat/RecordR_Bray-Dunes_v20.11_970ef774_MacOS10.13%2B.dmg?dl=0"
+    url="https://dl.dropboxusercontent.com/s/savw1reelfotln5/RecordR_Zuydcoote_v20.12_27d7c5e0_MacOS10.13%2B.dmg?dl=0"
 %}
 
 Pour *Windows 7*, *Windows 8*, et *Windows 10*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-windows"
-    url="https://dl.dropboxusercontent.com/s/xjbsbgtpbx3ru58/RecordR_Bray-Dunes_v20.11_970ef774.exe?dl=0"
+    url="https://dl.dropboxusercontent.com/s/gjpwiidcg3l1ogx/RecordR_Zuydcoote_v20.12_27d7c5e0.exe?dl=0"
 %}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation en suivant ces liens:
@@ -33,6 +33,19 @@ Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation 
 Un problème technique, contactez notre support par mail à [support@lylo.tv](mailto:support@lylo.tv?subject=REMOTE), en indiquant dans l’objet du mail REMOTE, et en indiquant votre blocage dans l’utilisation. Nous reviendrons vers vous le plus rapidement possible.
 
 ## Notes de version:
+
+### RecordR Zuydcoote 20.12
+
+- Possibilité d'écouter la version originale en même temps que les voix enregistrées
+- Les directeurs artistiques peuvent écouter le travail des comédiens sur *RecordR*
+- Les ingénieurs du son peuvent exporter l'intégralité de la session depuis *RecordR*
+- Nouveau code couleur pour les phrases du script:
+  - Les phrases à enregistrer sont en orange
+  - Les phrases en cours d'enregistrement sont en bleu
+  - Les phrases enregistrées sont en vert
+  - Les phrases présentant un problème de saturation sont en rouge
+- Le bouton *Next* permet de se déplacer jusqu'à la prochaine phrase non enregistréé ou saturée
+- Diverses améliorations et corrections de bugs notamment la barre de défilement du script
 
 ### RecordR Bray-Dunes 20.11
 
