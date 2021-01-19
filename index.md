@@ -18,7 +18,7 @@ Pour *Windows 7*, *Windows 8*, et *Windows 10*, vous pouvez télécharger la der
 
 {% include download.html
     icon="fa-windows"
-    url="https://dl.dropboxusercontent.com/s/q8rf8vqjyteodcq/RecordR_Ghyvelde_v21.1_f5972258.exe?dl=0"
+    url="https://www.microsoft.com/store/productId/9P7LDN6PKQG5"
 %}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation en suivant ces liens:
