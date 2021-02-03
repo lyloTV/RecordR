@@ -107,4 +107,4 @@ Pour *Windows*, vous pouvez télécharger la dernière version ici:
 
 ## TeamViewer
 
-<https://get.teamviewer.com/6sghkhv>
+<https://www.898.tv/lylomediagroup>
