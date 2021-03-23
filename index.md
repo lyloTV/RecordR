@@ -14,7 +14,7 @@ Pour *MacOS 10.13 - High Sierra*, *10.14 - Mojave*, *10.15 - Catalina* et *11.0 
     url="https://dl.dropboxusercontent.com/s/1vwme9wnsurcx9v/RecordR_Ghyvelde_v21.1_f5972258_MacOS10.13%2B.dmg?dl=0"
 %}
 
-Pour *Windows 7*, *Windows 8*, et *Windows 10*, vous pouvez télécharger la dernière version ici:
+Pour *Windows 10*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
     icon="fa-windows"
