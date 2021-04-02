@@ -89,22 +89,6 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Possibilité de redimmensionner la fenêtre *RecordR* / Mode plein écran
 - Nombreuses améliorations mineures et correction de bugs
 
-## Joker
-
-Pour *MacOS*, vous pouvez télécharger la dernière version ici:
-
-{% include download.html
-    icon="fa-apple"
-    url="https://dl.dropboxusercontent.com/s/jqnzj1ggggu167a/Joker_v20.7.4_MacOS10.10%2B.dmg?dl=0"
-%}
-
-Pour *Windows*, vous pouvez télécharger la dernière version ici:
-
-{% include download.html
-    icon="fa-windows"
-    url="https://dl.dropboxusercontent.com/s/io6bisucqj97129/Joker_v20.7.4.exe?dl=0"
-%}
-
 ## TeamViewer
 
 <https://www.898.tv/lylomediagroup>
