@@ -27,7 +27,7 @@ For *Windows 10* users it's this way:
     url="https://www.microsoft.com/store/productId/9P7LDN6PKQG5"
 %}
 
-Please find the tutorials to use Recordr here:: <https://lylo.freshdesk.com/a/solutions/articles/43000581827>
+Please find the tutorials to use RecordR here:: <https://lylo.freshdesk.com/a/solutions/articles/43000581827>
 
 <!--
 ## Change log:
