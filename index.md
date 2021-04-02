@@ -7,6 +7,11 @@ lang: fr
 
 ## RecordR
 
+{% include youtube.html
+    id="_m6N9mQYLhU"
+    language="fr"
+    caption="" %}
+
 Pour *MacOS 10.13 - High Sierra*, *10.14 - Mojave*, *10.15 - Catalina* et *11.0 Big Sur*, vous pouvez télécharger la dernière version ici:
 
 {% include download.html
