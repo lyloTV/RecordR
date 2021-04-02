@@ -8,21 +8,26 @@ permalink: en
 
 ## RecordR
 
+{% include youtube.html
+    id="_m6N9mQYLhU"
+    language="fr"
+    caption="" %}
+
 You can download the latest version for *MacOS 10.13+* here:
 
 {% include download.html
     icon="fa-apple"
-    os="macos"
-    tool="recordr"
+    url="https://dl.dropboxusercontent.com/s/1vwme9wnsurcx9v/RecordR_Ghyvelde_v21.1_f5972258_MacOS10.13%2B.dmg?dl=0"
 %}
 
-For *Windows* users it's this way:
+For *Windows 10* users it's this way:
 
 {% include download.html
     icon="fa-windows"
-    os="windows"
-    tool="recordr"
+    url="https://www.microsoft.com/store/productId/9P7LDN6PKQG5"
 %}
+
+Please find the documentation here: <https://lylo.freshdesk.com/a/solutions/articles/43000581827>
 
 <!--
 ## Change log:
