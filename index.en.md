@@ -29,6 +29,8 @@ For *Windows 10* users it's this way:
 
 Please find the tutorials to use RecordR here:: <https://lylo.freshdesk.com/a/solutions/articles/43000581827>
 
+If you have a technical problem, please contact our support team by email at [support@lylo.tv](mailto:support@lylo.tv?subject=REMOTE), indicating REMOTE in the subject line, and stating how you are having trouble using the system. We will get back to you as soon as possible.
+
 <!--
 ## Change log:
 
