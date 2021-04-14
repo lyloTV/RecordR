@@ -94,6 +94,6 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 - Possibilité de redimmensionner la fenêtre *RecordR* / Mode plein écran
 - Nombreuses améliorations mineures et correction de bugs
 
-## TeamViewer
+## Contrôle à distance
 
-<https://www.898.tv/lylomediagroup>
+<https://anydesk.com/downloads>
