@@ -6,25 +6,15 @@ lang: fr
 ---
 
 ## RecordR
-
+<!---
 {% include youtube.html
     id="_m6N9mQYLhU"
     language="fr"
     caption="" %}
+-->
 
-Pour *MacOS 10.13 - High Sierra*, *10.14 - Mojave*, *10.15 - Catalina* et *11.0 Big Sur*, vous pouvez télécharger la dernière version ici:
 
-{% include download.html
-    icon="fa-apple"
-    url="https://dl.dropboxusercontent.com/s/1vwme9wnsurcx9v/RecordR_Ghyvelde_v21.1_f5972258_MacOS10.13%2B.dmg?dl=0"
-%}
-
-Pour *Windows 10*, vous pouvez télécharger la dernière version ici:
-
-{% include download.html
-    icon="fa-windows"
-    url="https://www.microsoft.com/store/productId/9P7LDN6PKQG5"
-%}
+{% include download.html %}
 
 Pour vous aider à l’utiliser, n’hésitez pas à consulter la documentation en suivant ces liens:
 
@@ -39,7 +29,7 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 ## Notes de version:
 
-## RecordR Ghyvelde 21.1
+### RecordR Ghyvelde 21.1
 
 - Possibilité d'écouter et d'exporter les retakes
 - Correction d'un problème de connexion à la carte son
@@ -96,4 +86,5 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 ## Contrôle à distance
 
-<https://anydesk.com/downloads>
+{% include anydesk.html %}
+

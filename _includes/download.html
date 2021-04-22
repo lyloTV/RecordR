@@ -1,10 +1,12 @@
-<form>
-    <button
-        type="submit"
-        formaction="{{ include.url }}"
-        class="btn btn-primary btn-lg">
-        <i class="fa {{ include.icon }}"></i>
-        {{ site.t[page.lang].download }}
-        <i class="fa fa-download"></i>
-    </button>
-</form>
+<div class="download">
+  <button
+      id="download-button"
+      type="submit"
+      class="btn btn-primary btn-lg">
+    <i id="download-icon-macos" class="download-icon fa fa-apple"></i>
+    <i id="download-icon-windows" class="download-icon fa fa-windows"></i>
+    {{ site.t[page.lang].download }}
+    <i class="fa fa-download"></i>
+  </button>
+  <p id="download-caption"/>
+</div>

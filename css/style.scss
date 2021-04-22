@@ -16,3 +16,11 @@ body {
   padding: 40px 15px;
 }
 
+.download {
+  .download-icon {
+    display: none;
+  }
+  #download-caption {
+    font-style: italic;
+  }
+}
