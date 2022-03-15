@@ -13,7 +13,8 @@ permalink: en
     language="fr"
     caption="" %}
 
-You can download the latest version for *MacOS 10.13+* here:
+{% include download.html %}
+
 
 {% include download.html
     icon="fa-apple"
@@ -31,9 +32,16 @@ Please find the tutorials to use RecordR here:: <https://lylo.freshdesk.com/a/so
 
 If you have a technical problem, please contact our support team by email at [support@lylo.tv](mailto:support@lylo.tv?subject=REMOTE), indicating REMOTE in the subject line, and stating how you are having trouble using the system. We will get back to you as soon as possible.
 
-## Remote desktop
+## Change log
 
-<https://anydesk.com/downloads>
+### RecordR RecordR Grande-Synthe 22.2.1
+
+- New connection system to _YouDub_
+- The selected task is download in priority
+- Upload and validation via the application
+- Local file support
+- AAF track contains the voice talent name
+- Apple Store publication
 
 <!--
 ## Change log:
@@ -85,3 +93,8 @@ For *Windows* users it's this way:
 %}
 
 -->
+
+## Remote desktop
+
+<https://anydesk.com/downloads>
+

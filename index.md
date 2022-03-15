@@ -29,6 +29,15 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 ## Notes de version:
 
+### RecordR RecordR Grande-Synthe 22.2.1
+
+- Nouveau système de connexion à _YouDub_
+- Possibilité de choisir la tâche à télécharger en premier
+- L'upload et la validation de la tâche peuvent se faire désormais directement dans l'application
+- Possibilité de travailler à partir de fichier locaux
+- Ajout du nom des comédiens aux noms des pistes lors de l'export AAF
+- Publication sur l'Apple Store
+
 ### RecordR Ghyvelde 21.1
 
 - Possibilité d'écouter et d'exporter les retakes
@@ -86,5 +95,5 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 ## Contrôle à distance
 
-{% include anydesk.html %}
+<https://anydesk.com/downloads>
 
