@@ -34,7 +34,7 @@ If you have a technical problem, please contact our support team by email at [su
 
 ## Change log
 
-### RecordR RecordR Grande-Synthe 22.2.1
+### RecordR Grande-Synthe 22.2.1
 
 - New connection system to _YouDub_
 - The selected task is download in priority

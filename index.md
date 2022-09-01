@@ -29,7 +29,7 @@ Un problème technique, contactez notre support par mail à [support@lylo.tv](ma
 
 ## Notes de version:
 
-### RecordR RecordR Grande-Synthe 22.2.1
+### RecordR Grande-Synthe 22.2.1
 
 - Nouveau système de connexion à _YouDub_
 - Possibilité de choisir la tâche à télécharger en premier

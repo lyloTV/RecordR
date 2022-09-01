@@ -32,7 +32,7 @@ lsi: false
 
 os:
   macos:
-    url: "https://apps.apple.com/fr/app/lylo-recordr/id1548717598?mt=12"
+    url: "https://apps.apple.com/app/lylo-recordr/id1548717598"
     caption: "MacOS 10.13 - High Sierra / 10.14 - Mojave / 10.15 - Catalina / 11.0 - Big Sur / 12.0 - Monterey"
     anydesk: "TKJykQJ2"
   windows:
